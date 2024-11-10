@@ -7,4 +7,4 @@ This is an ongoing project aimed at easing data QA for geographic processes. Cur
 - If you have fields in the .csv for Northing and Easting, as long as they are spelled in full with the first letter capitalized the converter will populate those fields. Otherwise, Easting and Northing will be appended to the table.
 - The order of Longitude, Latitude, Northing, and Easting do not matter in the .csv. The converter will find the appropriate field location.
 
-This software is open source, and open to modification, and is covered by the [GNU General Public License 3.0](https://www.gnu.org/licenses/gpl-3.0.en.html).
+This software is open source, open to modification, and is covered by the [GNU General Public License 3.0](https://www.gnu.org/licenses/gpl-3.0.en.html).
